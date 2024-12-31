@@ -20,30 +20,53 @@ Welcome to my GitHub! I'm a recent graduate with a passion for creating dynamic 
 ->Python Applications: Data analysis, machine learning with libraries like pandas, NumPy.
 
 ->Database Management: Firebase Firestore and MySQL.
+
 ->Version Control: Git and GitHub for collaborative coding.
+
 🛠️ Skills:
+
 ->Front-End: HTML, CSS, JavaScript, React.js (in progress).
+
 ->Back-End: Firebase, basic knowledge of Node.js.
+
 ->Python: Data analysis
+
 ->Tools & Platforms: Git, GitHub, Visual Studio Code.
+
 📂 Featured Projects:
+
 Here are some of the projects I’ve been working on:
+
 ->Online Food Ordering Platform
+
 Built with HTML, CSS, JavaScript, and Firebase Authentication.
+
 Features user login, cart management, and order summary.
+
 https://vinaygandra7777.github.io/starbuckss/
+
 ->White Wine Quality Prediction
+
 Used Python and Random Forest Regression to predict wine quality based on physicochemical properties.
+
 ->The Burger Box & Lumin Serum Websites
+
 Responsive web design projects showcasing clean UI and mobile-first design principles.
+
  | 
 
 🌱 Future Goals:
+
 ->Master full-stack development and deploy complete applications.
+
 ->Contribute to open-source projects and collaborate with the developer community.
+
 📫 Let's Connect!:
+
 Feel free to reach out or explore my work:
+
 LinkedIn:www.linkedin.com/in/gandra-vinay-297376266
+
 Email: vinaygandra7777@gmail.com
 
 <!--
