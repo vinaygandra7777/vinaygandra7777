@@ -1,14 +1,24 @@
 
 Hi there! 👋 I'm Vinay Kumar Reddy Gandra
+
 🌟 Aspiring Full-Stack Developer | Python Enthusiast
+
 Welcome to my GitHub! I'm a recent graduate with a passion for creating dynamic and user-friendly web applications. Currently, I am honing my skills in full-stack development and exploring the power of Python for data analysis and machine learning.
+
 🔭 What I'm Working On:
+
 ->Developing responsive front-end applications using React.js, HTML, CSS, and JavaScript.
+
 ->Building back-end solutions and APIs while learning Node.js.
+
 ->Experimenting with machine learning algorithms and data visualization in Python.
+
 📚 What I'm Learning :
+
 ->Full-Stack Development: React.js, Firebase, Node.js.
+
 ->Python Applications: Data analysis, machine learning with libraries like pandas, NumPy.
+
 ->Database Management: Firebase Firestore and MySQL.
 ->Version Control: Git and GitHub for collaborative coding.
 🛠️ Skills:
