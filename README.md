@@ -43,7 +43,7 @@ Built with HTML, CSS, JavaScript, and Firebase Authentication.
 
 Features user login, cart management, and order summary.
 
-https://vinaygandra7777.github.io/starbuckss/
+https://vinaygandra7777.github.io/onlinefooddelivery/
 
 ->White Wine Quality Prediction
 
